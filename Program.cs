@@ -6,3 +6,15 @@
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
  
+string[] array = { "Hello", "2", "world", ":-)" };
+string[] result = new string[array.Length];
+
+for (int i = 0; i < array.Length; i++)
+{
+    if (array[i].Length <= 3) result[i] = array[i];
+    else result[i] = string.Empty;
+    if (result[i] != string.Empty)
+    { 
+    Console.Write($"{result[i]} ");
+    }
+}
