@@ -1,0 +1,15 @@
+D:\Личное\GeekBrains\HOMEWORK\FinalProject-IT\bin\Debug\net6.0\FinalProject-IT.exe
+D:\Личное\GeekBrains\HOMEWORK\FinalProject-IT\bin\Debug\net6.0\FinalProject-IT.deps.json
+D:\Личное\GeekBrains\HOMEWORK\FinalProject-IT\bin\Debug\net6.0\FinalProject-IT.runtimeconfig.json
+D:\Личное\GeekBrains\HOMEWORK\FinalProject-IT\bin\Debug\net6.0\FinalProject-IT.dll
+D:\Личное\GeekBrains\HOMEWORK\FinalProject-IT\bin\Debug\net6.0\FinalProject-IT.pdb
+D:\Личное\GeekBrains\HOMEWORK\FinalProject-IT\obj\Debug\net6.0\FinalProject-IT.csproj.AssemblyReference.cache
+D:\Личное\GeekBrains\HOMEWORK\FinalProject-IT\obj\Debug\net6.0\FinalProject-IT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Личное\GeekBrains\HOMEWORK\FinalProject-IT\obj\Debug\net6.0\FinalProject-IT.AssemblyInfoInputs.cache
+D:\Личное\GeekBrains\HOMEWORK\FinalProject-IT\obj\Debug\net6.0\FinalProject-IT.AssemblyInfo.cs
+D:\Личное\GeekBrains\HOMEWORK\FinalProject-IT\obj\Debug\net6.0\FinalProject-IT.csproj.CoreCompileInputs.cache
+D:\Личное\GeekBrains\HOMEWORK\FinalProject-IT\obj\Debug\net6.0\FinalProject-IT.dll
+D:\Личное\GeekBrains\HOMEWORK\FinalProject-IT\obj\Debug\net6.0\refint\FinalProject-IT.dll
+D:\Личное\GeekBrains\HOMEWORK\FinalProject-IT\obj\Debug\net6.0\FinalProject-IT.pdb
+D:\Личное\GeekBrains\HOMEWORK\FinalProject-IT\obj\Debug\net6.0\FinalProject-IT.genruntimeconfig.cache
+D:\Личное\GeekBrains\HOMEWORK\FinalProject-IT\obj\Debug\net6.0\ref\FinalProject-IT.dll
